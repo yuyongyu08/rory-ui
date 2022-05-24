@@ -1,8 +1,8 @@
 "use strict";
 
-const button = require("@rory-ui/button");
-const input = require("@rory-ui/input");
-const toast = require("@rory-ui/toast");
+const button = require("@yuyy-ui/button");
+const input = require("@yuyy-ui/input");
+const toast = require("@yuyy-ui/toast");
 
 module.exports = roryUi;
 

@@ -1,6 +1,6 @@
 "use strict";
 
-const { concat } = require("@rory-ui/utils");
+const { concat } = require("@yuyy-ui/utils");
 
 module.exports = input;
 

@@ -1,5 +1,5 @@
 {
-  "name": "@rory-ui/button",
+  "name": "@yuyy-ui/button",
   "version": "0.0.5-alpha.0",
   "description": "> TODO: description",
   "author": "yuyongyu <yuyongyu@jwzg.com>",
@@ -21,8 +21,8 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@rory-ui/utils": "^0.0.5-alpha.0",
+    "@yuyy-ui/utils": "^0.0.5-alpha.0",
     "lodash": "^4.17.21"
   },
-  "gitHead": "0db27a455dae223e88080dbbddd0e7d75568dc21"
+  "gitHead": "82ec9f4fe3788f56ae56bf553c0b560f8ff026ab"
 }

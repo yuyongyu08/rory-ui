@@ -2,6 +2,6 @@
 
 const roryUi = require('..');
 
-describe('@rory-ui/rory-ui', () => {
+describe('@yuyy-ui/rory-ui', () => {
     it('needs tests');
 });

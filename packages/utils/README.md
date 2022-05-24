@@ -1,11 +1,11 @@
-# `@rory-ui/utils`
+# `@yuyy-ui/utils`
 
 > TODO: description
 
 ## Usage
 
 ```
-const utils = require('@rory-ui/utils');
+const utils = require('@yuyy-ui/utils');
 
 // TODO: DEMONSTRATE API
 ```

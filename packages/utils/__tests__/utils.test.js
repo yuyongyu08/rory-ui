@@ -2,6 +2,6 @@
 
 const utils = require('..');
 
-describe('@rory-ui/utils', () => {
+describe('@yuyy-ui/utils', () => {
     it('needs tests');
 });

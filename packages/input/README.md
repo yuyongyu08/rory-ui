@@ -1,11 +1,11 @@
-# `@rory-ui/input`
+# `@yuyy-ui/input`
 
 > TODO: description
 
 ## Usage
 
 ```
-const input = require('@rory-ui/input');
+const input = require('@yuyy-ui/input');
 
 // TODO: DEMONSTRATE API
 ```

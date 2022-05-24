@@ -1,5 +1,5 @@
 {
-  "name": "@rory-ui/input",
+  "name": "@yuyy-ui/input",
   "version": "0.0.5-alpha.0",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
@@ -21,7 +21,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@rory-ui/utils": "^0.0.5-alpha.0"
+    "@yuyy-ui/utils": "^0.0.5-alpha.0"
   },
-  "gitHead": "0db27a455dae223e88080dbbddd0e7d75568dc21"
+  "gitHead": "82ec9f4fe3788f56ae56bf553c0b560f8ff026ab"
 }

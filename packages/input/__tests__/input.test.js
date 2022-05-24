@@ -2,6 +2,6 @@
 
 const input = require('..');
 
-describe('@rory-ui/input', () => {
+describe('@yuyy-ui/input', () => {
     it('needs tests');
 });
