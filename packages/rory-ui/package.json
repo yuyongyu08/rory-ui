@@ -14,7 +14,8 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
@@ -24,5 +25,5 @@
     "@rory-ui/input": "^0.0.4-alpha.0",
     "@rory-ui/toast": "^0.0.4-alpha.0"
   },
-  "gitHead": "b3bb1d22c4963a3de32fd03a69c6c4bf5662ea02"
+  "gitHead": "0db27a455dae223e88080dbbddd0e7d75568dc21"
 }
