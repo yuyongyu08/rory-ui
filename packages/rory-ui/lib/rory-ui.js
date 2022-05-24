@@ -3,5 +3,5 @@
 module.exports = roryUi;
 
 function roryUi() {
-    // TODO
+    console.log('hello rory-ui!');
 }
