@@ -1,7 +1,10 @@
-'use strict';
+"use strict";
+
+const utils = require("@rory-ui/utils");
 
 module.exports = input;
 
 function input() {
-    // TODO
+  console.log("input show");
+  utils();
 }

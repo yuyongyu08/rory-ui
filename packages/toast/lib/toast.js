@@ -1,7 +1,10 @@
-'use strict';
+"use strict";
+
+const utils = require("@rory-ui/utils");
 
 module.exports = toast;
 
 function toast() {
-    // TODO
+  console.log("toast show");
+  utils();
 }
