@@ -1,7 +1,10 @@
 "use strict";
+const _ = require("lodash");
 
-module.exports = utils;
+module.exports = {
+  concat,
+};
 
-function utils() {
-  console.log("utils called");
+function concat(a, b) {
+  console.log(_.concat(a, b).reduce((a,b) => a + b));
 }

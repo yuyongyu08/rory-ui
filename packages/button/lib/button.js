@@ -1,9 +1,8 @@
 "use strict";
-const utils = require("@rory-ui/utils");
+const { concat } = require("@rory-ui/utils");
 
 module.exports = button;
 
 function button() {
-  console.log("button show");
-  utils();
+  concat("button", " show");
 }
