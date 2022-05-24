@@ -18,5 +18,10 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@rory-ui/button": "^0.0.0",
+    "@rory-ui/input": "^0.0.0",
+    "@rory-ui/toast": "^0.0.0"
   }
 }
