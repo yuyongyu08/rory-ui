@@ -1,0 +1,29 @@
+build/*
+# IDE 文件
+.DS_Store
+.vscode/sftp.json
+# 配置
+jsconfig.json
+report.*
+node_modules
+.tmp
+*/.tmp
+yarn-error.log
+npm-error.log
+lerna-debug.log
+packages/app-enterprise/dist_*
+packages/app-enterprise/src/temp/version.dynamic.js
+packages/app-saas/build
+packages/app-enterprise/build
+packages/app-enterprise/src/temp
+packages/app-saas/build
+packages/app-saas/temp
+packages/app-saas/src/temp
+packages/lanhu-axure/dist
+packages/lanhu-axure/webdist
+packages/lanhu-axure/webdist-fix
+**/**/dist
+**/**/.nyc_output
+.history/*
+yalc.lock
+.yalc/*
